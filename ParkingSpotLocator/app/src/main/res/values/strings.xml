@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ParkingSpotLocator</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Parking Spot Locator</string>
+    <string name="nav_header_subtitle">Developed by:</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_login">Login</string>
+    <string name="menu_signup">SignUp</string>
+    <string name="menu_home">View Profile</string>
+    <string name="menu_gallery">Parking Spots</string>
+    <string name="menu_slideshow">Add Parking Spots</string>
+    <string name="menu_parking">Booking</string>
+    <string name="menu_logout">Log Out</string>
+    <string name="action_sign_in">Sign Up</string>
+    <string name="action_sign_in_short">Log in</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
